@@ -1,4 +1,0 @@
-{
-  "dockerImageBuilder": "cimg/base:stable-20.04",
-  "inputs": []
-}
